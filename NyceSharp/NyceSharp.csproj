@@ -3,10 +3,10 @@
 	<PropertyGroup>
 		<TargetFrameworks>net461;netcoreapp2.2</TargetFrameworks>
 		<RootNamespace>NyceSharp</RootNamespace>
-		<Version>1.2.1</Version>
+		<Version>1.0.0</Version>
 	</PropertyGroup>
 	<PropertyGroup>
-		<Description>NyceSharp is a C# and .NET library that is used internally by Prime Penguin.</Description>
+		<Description>NyceSharp is a C# and .NET library that is used to connect with NYCE WMS.</Description>
 		<Authors>Ajay Kumar</Authors>
 		<Copyright>Prime Penguin</Copyright>
 		<PackageLicenseUrl>https://raw.githubusercontent.com/PrimePenguin/FlaivySharp/master/LICENSE</PackageLicenseUrl>
