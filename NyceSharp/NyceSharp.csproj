@@ -2,19 +2,19 @@
 
 	<PropertyGroup>
 		<TargetFrameworks>net461;netcoreapp2.2</TargetFrameworks>
-		<RootNamespace>PrimePenguinSharp</RootNamespace>
+		<RootNamespace>NyceSharp</RootNamespace>
 		<Version>1.2.1</Version>
 	</PropertyGroup>
 	<PropertyGroup>
-		<Description>PrimePenguinSharp is a C# and .NET library that is used internally by Prime Penguin.</Description>
+		<Description>NyceSharp is a C# and .NET library that is used internally by Prime Penguin.</Description>
 		<Authors>Ajay Kumar</Authors>
 		<Copyright>Prime Penguin</Copyright>
 		<PackageLicenseUrl>https://raw.githubusercontent.com/PrimePenguin/FlaivySharp/master/LICENSE</PackageLicenseUrl>
-		<PackageProjectUrl>https://github.com/PrimePenguin/PrimePenguinSharp</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/PrimePenguin/PrimePenguinSharp</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/PrimePenguin/NyceSharp</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/PrimePenguin/NyceSharp</RepositoryUrl>
 		<PackageTags>PrimePenguin,ecommerce</PackageTags>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-		<PackageIconUrl>https://raw.githubusercontent.com/PrimePenguin/PrimePenguinSharp/master/PrimePenguin.png</PackageIconUrl>
+		<PackageIconUrl>https://raw.githubusercontent.com/PrimePenguin/NyceSharp/master/PrimePenguin.png</PackageIconUrl>
 	</PropertyGroup>
 
 	<ItemGroup>

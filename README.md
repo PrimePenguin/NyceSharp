@@ -1,1 +1,1 @@
-# PrimePenguinSharp: A .NET library for PrimePenguin.
+# NyceSharp: A .NET library for NYCE WMS.

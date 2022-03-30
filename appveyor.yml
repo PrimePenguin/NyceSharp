@@ -7,9 +7,9 @@ build_script:
 environment:
   APPVEYOR_REPO_TAG: true
 artifacts:
-  - path: PrimePenguinSharp/bin/Release/netcoreapp2.2
+  - path: NyceSharp/bin/Release/netcoreapp2.2
     name: netcoreapp22
-  - path: PrimePenguinSharp/bin/Release/net461
+  - path: NyceSharp/bin/Release/net461
     name: net461
 skip_commits:
   message: /\[skip\]/
